@@ -10,7 +10,7 @@ Use the navigation to jump into specific events.
 - Use tips per player profile where provided (F2P vs spenders).
 
 ## Events covered
-- Halls of Governors
+- Hall of Governors
 - Swordland
-- Eternitys Reach
-- Viking Vengance
+- Eternity's Reach
+- Viking Vengeance

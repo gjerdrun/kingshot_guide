@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# 2nd Halls of Governors (Starts two weeks after first)
+# 2nd Hall of Governors (Starts two weeks after first)
 
 === "Day 1 — City Construction"
     !!! info "Summary"
@@ -31,13 +31,13 @@ hide:
     | Category | Item | Points |
     |---|---|---:|
     | Roulette | Play Hero Roulette | 90,000 pts |
-    | Shards | Rare | 4,000 pts |
-    | Shards | Epic | 14,000 pts |
-    | Shards | Mythic | 35,000 pts |
-    | Gathering | Bread 50 | 3 pts |
-    | Gathering | Wood 50 | 3 pts |
-    | Gathering | Stone 10 | 3 pts |
-    | Gathering | Iron 2 | 3 pts |
+    | Shards | Rare shard | 4,000 pts |
+    | Shards | Epic shard | 14,000 pts |
+    | Shards | Mythic shard | 35,000 pts |
+    | Gathering | Gather 50 Bread | 3 pts |
+    | Gathering | Gather 50 Wood | 3 pts |
+    | Gathering | Gather 10 Stone | 3 pts |
+    | Gathering | Gather 2 Iron | 3 pts |
 
     !!! tip "Focus"
         - Bank ascensions/roulettes; burst turn‑ins
@@ -53,16 +53,16 @@ hide:
 
     | Tier | Points |
     |---|---:|
-    | L1 | 90 |
-    | L2 | 120 |
-    | L3 | 180 |
-    | L4 | 265 |
-    | L5 | 385 |
-    | L6 | 595 |
-    | L7 | 830 |
-    | L8 | 1,130 |
-    | L9 | 1,485 |
-    | L10 | 1,960 |
+    | L1 | 90 pts |
+    | L2 | 120 pts |
+    | L3 | 180 pts |
+    | L4 | 265 pts |
+    | L5 | 385 pts |
+    | L6 | 595 pts |
+    | L7 | 830 pts |
+    | L8 | 1,130 pts |
+    | L9 | 1,485 pts |
+    | L10 | 1,960 pts |
 
     !!! tip "Focus"
         - Pre‑queue long trainings; batch completions
@@ -78,10 +78,10 @@ hide:
 
     | Category | Item | Points |
     |---|---|---:|
-    | Gathering | Bread 50 | 3 pts |
-    | Gathering | Wood 50 | 3 pts |
-    | Gathering | Stone 10 | 3 pts |
-    | Gathering | Iron 2 | 3 pts |
+    | Gathering | Gather 50 Bread | 3 pts |
+    | Gathering | Gather 50 Wood | 3 pts |
+    | Gathering | Gather 10 Stone | 3 pts |
+    | Gathering | Gather 2 Iron | 3 pts |
     | Research | +1 power | +45 pts |
 
     !!! tip "Focus"
@@ -101,7 +101,9 @@ hide:
     | Use 1 Hero Gear Forgehammer | 50,000 pts |
     | Use 100 Hero Gear Enhancement XP | 30,000 pts |
     | Use 1 Widget (Hero Exclusive Gear) | 100,000 pts |
-    | +1 power from Construction/Research/Training | +30/30/20 pts |
+    | +1 power from Construction | +30 pts |
+    | +1 power from Research | +30 pts |
+    | +1 power from Training/Promotion | +20 pts |
 
     !!! tip "Focus"
         - Batch gear actions for big jumps; avoid partials
@@ -118,7 +120,9 @@ hide:
     | Action | Points |
     |---|---:|
     | Raise Governor Gear max score by 1 | 500 pts |
-    | +1 power from Construction/Research/Training | +30/30/20 pts |
+    | +1 power from Construction | +30 pts |
+    | +1 power from Research | +30 pts |
+    | +1 power from Training/Promotion | +20 pts |
 
     !!! tip "Focus"
         - Target efficient upgrades that increase max score

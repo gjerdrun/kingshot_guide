@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# 3rd Halls of Governors (2 Weeks after 2nd Halls of Governors)
+# 3rd Hall of Governors (2 weeks after 2nd Hall of Governors)
 
 === "Day 1 — Power Boost"
     !!! info "Summary"
@@ -34,13 +34,13 @@ hide:
     | Category | Item | Points |
     |---|---|---:|
     | Roulette | Play Hero Roulette | 90,000 pts |
-    | Shards | Rare | 4,000 pts |
-    | Shards | Epic | 14,000 pts |
-    | Shards | Mythic | 35,000 pts |
-    | Gathering | Bread 50 | 3 pts |
-    | Gathering | Wood 50 | 3 pts |
-    | Gathering | Stone 10 | 3 pts |
-    | Gathering | Iron 2 | 3 pts |
+    | Shards | Rare shard | 4,000 pts |
+    | Shards | Epic shard | 14,000 pts |
+    | Shards | Mythic shard | 35,000 pts |
+    | Gathering | Gather 50 Bread | 3 pts |
+    | Gathering | Gather 50 Wood | 3 pts |
+    | Gathering | Gather 10 Stone | 3 pts |
+    | Gathering | Gather 2 Iron | 3 pts |
 
     !!! tip "Focus"
         - Bank roulettes and ascensions; turn in bursts for rank spikes
@@ -59,16 +59,16 @@ hide:
 
     | Tier | Points |
     |---|---:|
-    | L1 | 90 |
-    | L2 | 120 |
-    | L3 | 180 |
-    | L4 | 265 |
-    | L5 | 385 |
-    | L6 | 595 |
-    | L7 | 830 |
-    | L8 | 1,130 |
-    | L9 | 1,485 |
-    | L10 | 1,960 |
+    | L1 | 90 pts |
+    | L2 | 120 pts |
+    | L3 | 180 pts |
+    | L4 | 265 pts |
+    | L5 | 385 pts |
+    | L6 | 595 pts |
+    | L7 | 830 pts |
+    | L8 | 1,130 pts |
+    | L9 | 1,485 pts |
+    | L10 | 1,960 pts |
 
     !!! tip "Focus"
         - Pre‑queue long trainings to finish during the window
@@ -84,10 +84,10 @@ hide:
  
     | Category | Item | Points |
     |---|---|---:|
-    | Gathering | Bread 50 | 3 pts |
-    | Gathering | Wood 50 | 3 pts |
-    | Gathering | Stone 10 | 3 pts |
-    | Gathering | Iron 2 | 3 pts |
+    | Gathering | Gather 50 Bread | 3 pts |
+    | Gathering | Gather 50 Wood | 3 pts |
+    | Gathering | Gather 10 Stone | 3 pts |
+    | Gathering | Gather 2 Iron | 3 pts |
     | Research | +1 power | +45 pts |
 
     !!! tip "Focus"
@@ -106,7 +106,9 @@ hide:
     |---|---:|
     | Use 1 Hero Gear Forgehammer | 50,000 pts |
     | Use 1 Widget (Hero Exclusive Gear) | 100,000 pts |
-    | +1 power from Construction/Research/Training | +30/30/20 pts |
+    | +1 power from Construction | +30 pts |
+    | +1 power from Research | +30 pts |
+    | +1 power from Training/Promotion | +20 pts |
 
     !!! tip "Focus"
         - Batch forgehammers/widgets for big jumps; avoid partial enhancements
@@ -136,12 +138,12 @@ hide:
 
     | Category | Item | Points |
     |---|---|---:|
-    | Shards | Rare | 4,000 pts |
-    | Shards | Epic | 14,000 pts |
-    | Shards | Mythic | 35,000 pts |
+    | Shards | Rare shard | 4,000 pts |
+    | Shards | Epic shard | 14,000 pts |
+    | Shards | Mythic shard | 35,000 pts |
     | Speedups (per 1m) | Construction | 300 pts |
     | Speedups (per 1m) | Research | 300 pts |
-    | Speedups (per 1m) | Training | 300 pts |
+    | Speedups (per 1m) | Training/Promotion | 300 pts |
 
     !!! tip "Focus"
         - Combine shard ascensions and speedup dumps to hit targets fast

@@ -1,9 +1,13 @@
+---
+hide:
+    - toc
+---
+
 # Bear Hunt
 
-The goal is to do maximum damage on the Bear. 
+The goal is to do maximum damage on the Bear.
 
-There are two options for this, Rally Leader and Rally Joiners, the Rally Leaders should consist of players with a high troop capacity. using the best heroes with the most damage/lethality up they can get.
-Then you have the Rally Joiners, They join the Rally Leaders with heroes having "Lethality" or "Damage up" exploration skills.
+There are two roles: Rally Leaders and Rally Joiners. Rally Leaders should be players with high troop capacity, using the best heroes with the most damage/lethality up they can get. Rally Joiners join the Rally Leaders with heroes having "Lethality" or "Damage up" exploration skills.
 
 === "Rally Leaders"
 

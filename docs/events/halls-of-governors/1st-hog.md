@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# 1st Halls of Governors (Day 6)
+# 1st Hall of Governors (Day 6)
 
 === "Day 1 — City Construction"
     !!! info "Summary"
@@ -37,10 +37,10 @@ hide:
     | Shards | Rare shard | 4,000 pts |
     | Shards | Epic shard | 14,000 pts |
     | Shards | Mythic shard | 35,000 pts |
-    | Gathering | 50 Bread | 3 pts |
-    | Gathering | 50 Wood | 3 pts |
-    | Gathering | 10 Stone | 3 pts |
-    | Gathering | 2 Iron | 3 pts |
+    | Gathering | Gather 50 Bread | 3 pts |
+    | Gathering | Gather 50 Wood | 3 pts |
+    | Gathering | Gather 10 Stone | 3 pts |
+    | Gathering | Gather 2 Iron | 3 pts |
 
     !!! tip "Focus"
         - Pre‑farm gathering to claim in bursts during the stage
