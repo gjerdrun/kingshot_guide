@@ -24,8 +24,13 @@ markdown_extensions:
 nav:
   - Overview: index.md
   - Events:
-      - Halls of Governors: events/halls-of-governors.md
-      - Bear Hunt: events/bear-hunt.md
-      - Swordland: events/swordland.md
-      - Eternitys Reach: events/eternitys-reach.md
-      - Viking Vengance: events/viking-vengance.md
+    - Halls of Governors:
+      - Overview: events/halls-of-governors.md
+      - 1st Halls of Governors: events/halls-of-governors/1st-hog.md
+      - 2nd Halls of Governors: events/halls-of-governors/2nd-hog.md
+      - 3rd Halls of Governors: events/halls-of-governors/3rd-hog.md
+      - "4th & 5th Halls of Governors": events/halls-of-governors/4th-5th-hog.md
+    - Bear Hunt: events/bear-hunt.md
+    - Swordland: events/swordland.md
+    - Eternitys Reach: events/eternitys-reach.md
+    - Viking Vengance: events/viking-vengance.md
