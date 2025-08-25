@@ -1,0 +1,35 @@
+# MkDocs build output
+site/
+
+# (Intentionally no virtualenv entries; user manages env locally)
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.so
+.mypy_cache/
+.pytest_cache/
+
+# Logs and caches
+*.log
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment / secrets
+.env
+.env.*
+
+# MkDocs deployment cache (if any)
+.gitignore.swp

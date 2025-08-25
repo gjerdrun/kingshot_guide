@@ -1,0 +1,31 @@
+site_name: Kingshot Guide
+site_description: Strategy guide for Kingshot mobile game events
+site_url: 
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tracking
+    - content.code.copy
+    - toc.integrate
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+nav:
+  - Overview: index.md
+  - Events:
+      - Halls of Governors: events/halls-of-governors.md
+      - Bear Hunt: events/bear-hunt.md
+      - Swordland: events/swordland.md
+      - Eternitys Reach: events/eternitys-reach.md
+      - Viking Vengance: events/viking-vengance.md
