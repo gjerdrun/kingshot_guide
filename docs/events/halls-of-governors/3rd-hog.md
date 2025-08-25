@@ -6,67 +6,147 @@ hide:
 # 3rd Halls of Governors (2 Weeks after 2nd Halls of Governors)
 
 === "Day 1 — Power Boost"
-    Summary: Power from construction/research/training.
+    !!! info "Summary"
+        Power from construction/research/training.
 
-    Scoring
+    
 
-    - +30 pts per 1 power from Construction
-    - +30 pts per 1 power from Research
-    - +20 pts per 1 power from Training/Promotion
+    | Source | Points per 1 power |
+    |---|---:|
+    | Construction | +30 pts |
+    | Research | +30 pts |
+    | Training/Promotion | +20 pts |
+
+    !!! tip "Focus"
+        - Time building/research/training finishes to land inside the window
+        - Push only to the milestone you need; avoid overcommitting
+
+    !!! note "What to save up beforehand"
+        - Building/research timers ready to complete
+        - Universal speedups and resource packs
 
 === "Day 2 — Hero Development"
-    Summary: Roulette, shard ascensions, gathering.
+    !!! info "Summary"
+        Roulette, shard ascensions, gathering.
 
-    Scoring
+    
 
-    - Play Hero Roulette: 90,000 pts
-    - Ascend shards: Rare 4,000 pts, Epic 14,000 pts, Mythic 35,000 pts
-    - Gathering: Bread 50=3 pts, Wood 50=3 pts, Stone 10=3 pts, Iron 2=3 pts
+    | Category | Item | Points |
+    |---|---|---:|
+    | Roulette | Play Hero Roulette | 90,000 pts |
+    | Shards | Rare | 4,000 pts |
+    | Shards | Epic | 14,000 pts |
+    | Shards | Mythic | 35,000 pts |
+    | Gathering | Bread 50 | 3 pts |
+    | Gathering | Wood 50 | 3 pts |
+    | Gathering | Stone 10 | 3 pts |
+    | Gathering | Iron 2 | 3 pts |
+
+    !!! tip "Focus"
+        - Bank roulettes and ascensions; turn in bursts for rank spikes
+        - Stagger gathering returns to minimize idle time
+
+    !!! note "What to save up beforehand"
+        - Hero shards (Rare/Epic/Mythic)
+        - Gems/tokens for Hero Roulette
+        - Scheduled gathering returns during the stage
 
 === "Day 3 — Train Troops"
-    Summary: Higher tiers, more points.
+    !!! info "Summary"
+        Higher tiers, more points.
 
-    Scoring (per troop)
+    
 
-    - L1: 90
-    - L2: 120
-    - L3: 180
-    - L4: 265
-    - L5: 385
-    - L6: 595
-    - L7: 830
-    - L8: 1,130
-    - L9: 1,485
-    - L10: 1,960
+    | Tier | Points |
+    |---|---:|
+    | L1 | 90 |
+    | L2 | 120 |
+    | L3 | 180 |
+    | L4 | 265 |
+    | L5 | 385 |
+    | L6 | 595 |
+    | L7 | 830 |
+    | L8 | 1,130 |
+    | L9 | 1,485 |
+    | L10 | 1,960 |
+
+    !!! tip "Focus"
+        - Pre‑queue long trainings to finish during the window
+        - Batch completions to cross milestone thresholds cleanly
+
+    !!! note "What to save up beforehand"
+        - Training speedups and resources
+        - Queued trainings set to complete in the stage
 
 === "Day 4 — Gather Resources"
-    Summary: Gathering and research points.
+    !!! info "Summary"
+        Gathering and research points.
+ 
+    | Category | Item | Points |
+    |---|---|---:|
+    | Gathering | Bread 50 | 3 pts |
+    | Gathering | Wood 50 | 3 pts |
+    | Gathering | Stone 10 | 3 pts |
+    | Gathering | Iron 2 | 3 pts |
+    | Research | +1 power | +45 pts |
 
-    Scoring
+    !!! tip "Focus"
+        - Keep all marches gathering; recall in waves timed to the stage
+        - Slip in a research finish if you need a quick top‑up
 
-    - Bread 50=3 pts, Wood 50=3 pts, Stone 10=3 pts, Iron 2=3 pts
-    - +45 pts per 1 power from Research
+    !!! note "What to save up beforehand"
+        - Full gathering returns scheduled in the window
+        - A research project near completion
 
 === "Day 5 — Power Boost (Gear Actions)"
-    Summary: Gear actions plus power gains.
+    !!! info "Summary"
+        Gear actions plus power gains.
 
-    Scoring
+    | Action | Points |
+    |---|---:|
+    | Use 1 Hero Gear Forgehammer | 50,000 pts |
+    | Use 1 Widget (Hero Exclusive Gear) | 100,000 pts |
+    | +1 power from Construction/Research/Training | +30/30/20 pts |
 
-    - Use 1 Hero Gear Forgehammer: 50,000 pts
-    - Use 1 Widget (Hero Exclusive Gear): 100,000 pts
-    - +30/30/20 pts per 1 power from Construction/Research/Training
+    !!! tip "Focus"
+        - Batch forgehammers/widgets for big jumps; avoid partial enhancements
+        - Pair with power finishes to maximize leaderboard impact
+
+    !!! note "What to save up beforehand"
+        - Forge hammers, widgets, and enhancement XP
+        - Building/research finishes to layer extra points
 
 === "Day 6 — Governor Gear Upgrade"
-    Summary: Raise Governor Gear max score.
+    !!! info "Summary"
+        Raise Governor Gear max score.
 
-    Scoring
+    | Action | Points |
+    |---|---:|
+    | Raise Governor Gear max score by 1 | 500 pts |
 
-    - Raise Governor Gear max score by 1: 500 pts
+    !!! tip "Focus"
+        - Target efficient upgrades that raise max score, not just enhancement levels
+
+    !!! note "What to save up beforehand"
+        - Gear pieces/fragments and ascend/enhance materials
 
 === "Day 7 — Hero Development (Speedups)"
-    Summary: Shards and speedups score.
+    !!! info "Summary"
+        Shards and speedups score.
 
-    Scoring
+    | Category | Item | Points |
+    |---|---|---:|
+    | Shards | Rare | 4,000 pts |
+    | Shards | Epic | 14,000 pts |
+    | Shards | Mythic | 35,000 pts |
+    | Speedups (per 1m) | Construction | 300 pts |
+    | Speedups (per 1m) | Research | 300 pts |
+    | Speedups (per 1m) | Training | 300 pts |
 
-    - Ascend shards: Rare 4,000 pts, Epic 14,000 pts, Mythic 35,000 pts
-    - Use 1m of Speedups: Construction 300 pts, Research 300 pts, Training 300 pts
+    !!! tip "Focus"
+        - Combine shard ascensions and speedup dumps to hit targets fast
+        - Prioritize speedups where you gain the most ancillary value
+
+    !!! note "What to save up beforehand"
+        - Hero shards (Rare/Epic/Mythic)
+        - Construction/Research/Training speedups
