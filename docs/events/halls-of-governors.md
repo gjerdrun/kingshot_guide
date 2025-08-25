@@ -56,9 +56,8 @@ A 5‑stage run introducing core scoring sources.
     What to save up beforehand:
 
     - Hero shards for ascension (Rare/Epic/Mythic)
-    - Hero Roulette tokens/keys (if applicable for your server)
+    - Gems for Hero Roulette
     - Gathering returns timed to land during the stage (Bread/Wood/Stone/Iron)
-    - Hero XP/upgrade materials if they support your ascension plan
 
 === "Stage 3 — Train Troops"
 
@@ -77,9 +76,8 @@ A 5‑stage run introducing core scoring sources.
     What to save up beforehand:
 
     - Troop training speedups
-    - Resources for training/promotions (as required by your tiers)
+    - Resources for training/promotions
     - Long training queues set to finish inside the stage
-    - Training buffs/boosts (if available on your server)
 
 === "Stage 4 — Beast Slay"
 
@@ -98,7 +96,7 @@ A 5‑stage run introducing core scoring sources.
     What to save up beforehand:
 
     - Stamina/Energy for beast hunts
-    - Rally attempts or terror summoning items (as applicable)
+    - Rally attempts or terror summoning items
     - March attack/HP buffs and damage consumables
     - Alliance coordination window for chaining rallies
 
@@ -121,5 +119,4 @@ A 5‑stage run introducing core scoring sources.
     - Building and research finishes you didn’t use earlier
     - Universal and category speedups to close power gaps
     - Troop promotions or batch trainings ready to complete
-    - Resource packs to fund last‑minute pushes
 
