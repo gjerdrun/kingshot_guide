@@ -4,7 +4,6 @@ Hall of Governors (HoG) is a multi-day, bi‑weekly event during early generatio
 
 Notes
 - First HoG starts around day 6 after a kingdom opens. Early events feature Amadeus as the Hero of the Season; later events may feature Hilde.
-- Tasks and stages evolve between the 1st, 2nd, 3rd, and 4th/5th HoG runs.
 
 Below you’ll find one tab for each HoG run, and inside it, horizontal tabs for each stage with scoring and quick focus tips.
 
