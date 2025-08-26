@@ -16,7 +16,11 @@ hide:
     | Training/Promotion | +20 pts |
 
     !!! tip "Focus"
-        - Use a training capacity boost the day before and time a large training session to finish inside the day
+        - Pre-queue long trainings to finish inside the stage window
+        - Use a training capacity boost the day before so a large batch completes in window
+        - Batch completions to hit milestones cleanly; avoid overshooting
+        - Prioritize highest unlocked tiers for better points efficiency
+        - Keep resources and speedups ready; top off queues if you need quick points
 
     !!! note "What to save up beforehand"
         - Building/research timers, universal speedups, resource packs
@@ -82,7 +86,7 @@ hide:
     | Gathering | Gather 2 Iron | 3 pts |
 
     !!! tip "Focus"
-        - Research yields more pts in stage 4 than 5.
+        - Research yields more pts in stage 4 than 5. so prioritize speedups in day 4
 
     !!! note "What to save up beforehand"
         - Charm materials and a research near completion

@@ -72,7 +72,10 @@ hide:
 
     !!! tip "Focus"
         - Pre‑queue long trainings to finish inside the stage window
-        - Train in batches sized to cross milestone thresholds cleanly
+        - Use a training capacity boost the day before so a large batch completes in window
+        - Batch completions to hit milestones cleanly; avoid overshooting
+        - Prioritize highest unlocked tiers for better points efficiency
+        - Keep resources and speedups ready; top off queues if you need quick points
 
     !!! note "What to save up beforehand"
         - Training speedups and resources

@@ -50,3 +50,5 @@ There are two roles: Rally Leaders and Rally Joiners. Rally Leaders should be pl
     | 3    | Amadeus | DPS  | Lethality up for the rally |
     | 4    | Zoe     | DPS  | Damage up |
     | 5    | Marlin  | DPS  | Damage dealt chance up |
+
+    - If you do not have any of the above available heroes, just send troops with no hero.

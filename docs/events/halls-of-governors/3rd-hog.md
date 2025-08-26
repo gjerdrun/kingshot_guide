@@ -71,8 +71,11 @@ hide:
     | L10 | 1,960 pts |
 
     !!! tip "Focus"
-        - Pre‑queue long trainings to finish during the window
-        - Batch completions to cross milestone thresholds cleanly
+        - Pre-queue long trainings to finish inside the stage window
+        - Use a training capacity boost the day before so a large batch completes in window
+        - Batch completions to hit milestones cleanly; avoid overshooting
+        - Prioritize highest unlocked tiers for better points efficiency
+        - Keep resources and speedups ready; top off queues if you need quick points
 
     !!! note "What to save up beforehand"
         - Training speedups and resources
