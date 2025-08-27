@@ -35,3 +35,31 @@ nav:
     - Swordland: events/swordland.md
     - Eternity's Reach: events/eternitys-reach.md
     - Viking Vengeance: events/viking-vengance.md
+  - Heroes:
+    - Heroes Index: heroes/index.md
+    - Generation 3:
+      - Jaeger: heroes/jaeger.md
+      - Eric: heroes/eric.md
+      - Petra: heroes/petra.md
+    - Generation 2:
+      - Hilde: heroes/hilde.md
+      - Zoe: heroes/zoe.md
+      - Marlin: heroes/marlin.md
+    - Generation 1:
+      - Jabel: heroes/jabel.md
+      - Amadeus: heroes/amadeus.md
+      - Helga: heroes/helga.md
+      - Saul: heroes/saul.md
+    - Epic:
+      - Yeonwoo: heroes/yeonwoo.md
+      - Fahd: heroes/fahd.md
+      - Chenko: heroes/chenko.md
+      - Gordon: heroes/gordon.md
+      - Diana: heroes/diana.md
+      - Howard: heroes/howard.md
+      - Quinn: heroes/quinn.md
+    - Rare:
+      - Olive: heroes/olive.md
+      - Edwin: heroes/edwin.md
+      - Seth: heroes/seth.md
+      - Forrest: heroes/forrest.md
